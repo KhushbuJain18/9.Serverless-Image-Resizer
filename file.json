@@ -1,0 +1,14 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "image-input-bucket-demo-12345"
+        },
+        "object": {
+          "key": "candidate_photo.jpeg"
+        }
+      }
+    }
+  ]
+}
